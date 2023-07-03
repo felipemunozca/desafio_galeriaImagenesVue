@@ -1,4 +1,9 @@
-# m6_evaluacion_s4
+# Curso Desarrollo de Aplicaciones Front-end Trainee 2023
+
+## Modulo 6 - Desarrollo de Interfaces Interactivas con Framework VUE
+Sesión 4
+
+DRILLING: GALERÍA
 
 ## Project setup
 ```
